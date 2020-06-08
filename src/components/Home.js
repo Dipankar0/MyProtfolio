@@ -53,6 +53,9 @@ const Home = props => {
                 Email: bhadrad4@gmail.com
               </Typography>
               <Typography style={{ textAlign: 'center' }}>
+                Mobile: +8801318634424
+              </Typography>
+              <Typography style={{ textAlign: 'center' }}>
                 Address: House 20, Road 10,
               </Typography>
               <Typography style={{ textAlign: 'center' }}>
