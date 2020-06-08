@@ -47,7 +47,7 @@ const BloodSourceSummary = props => {
           <div className='my-2' style={{ border: 'black solid 1px' }}>
             <div>
               <img
-                style={{ width: '100%', height: '500px' }}
+                style={{ width: '100%', height: '600px' }}
                 src={home}
                 alt='Promo'
               />
