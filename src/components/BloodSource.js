@@ -25,10 +25,10 @@ const BloodSource = props => {
           </Typography>
           <Typography>
             <strong>Description: </strong>An user interactive web application
-            designed for both mobile and desktop devices for creating a platform
-            used by 4 different types of users namely, Donor, Receiver, Public
-            and Admin. UI is defferent for each type of user for maximum
-            convention.
+            designed for both mobile and desktop devices. It is designed to
+            create a platform for 4 different types of users namely, Donor,
+            Receiver, Public and Admin. UI is defferent for each type of user
+            throughout the application for maximum convention.
           </Typography>
           <Typography>
             <strong>Technologies Used: </strong> React, Redux, Node, Express,

@@ -23,9 +23,9 @@ const FindContact = props => {
             <strong>Description: </strong>A simple but powerful web application
             designed for thousands of agencies under one mega company. Every
             agency can share the contact information of employees of many
-            designations. Thus by selecting the angency and designation any
+            designations. Thus by selecting the angency and designation one
             employee among all the agencies can see the contact information of
-            his/her wish.
+            desired employee.
           </Typography>
           <Typography>
             <strong>Technologies Used: </strong> React, Redux, Node, Express,
