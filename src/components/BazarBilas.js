@@ -164,8 +164,8 @@ const BazarBilas = props => {
               <strong>Picture: </strong>Delivery Management
             </Typography>
             <Typography>
-              <strong>Description: </strong>Seller can manage the order item
-              delivery procedures.
+              <strong>Description: </strong>Seller can manage the order item's
+              delivery procedures for three categories.
             </Typography>
           </div>
           <div className='my-1'>
