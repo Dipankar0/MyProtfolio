@@ -8,32 +8,39 @@ import comment from '../../src/img/BloodSource/comment.png';
 import dashboard from '../../src/img/BloodSource/dashboard.png';
 import donorlist from '../../src/img/BloodSource/donorlist.png';
 import edit from '../../src/img/BloodSource/edit.png';
-import home from '../../src/img/BloodSource/home.png';
+import home from '../../src/img/BazarBilas/home.jpg';
 import newpost from '../../src/img/BloodSource/newpost.png';
 import validation from '../../src/img/BloodSource/validation.png';
 
-const BloodSourceSummary = props => {
+const BazarBilasSummary = props => {
   return (
     <div className='my-2'>
+      <Grid item>
+        <div>
+          <p style={{ textAlign: 'center' }} className='badge-firm mid'>
+            Projects
+          </p>
+        </div>
+      </Grid>
       <div className='badge-light'>
         <Grid item>
           <Typography>
-            <strong>Name: </strong>Blood Source
+            <strong>Name: </strong>Bazar Bilas
           </Typography>
           <Typography>
             <strong>Link: </strong>
-            <a href='https://bloodsource.herokuapp.com/'>bdbloodsource.com</a>
+            <a href='http://bazarbilas.com/'>bazarbilas.com</a>
           </Typography>
           <Typography>
-            <strong>Description: </strong>An user interactive web application
-            designed for both mobile and desktop devices. It is designed to
-            create a platform for 4 different types of users namely, Donor,
-            Receiver, Public and Admin. UI is defferent for each type of user
-            throughout the application for maximum convention.
+            <strong>Description: </strong>An e-commerce web application designed
+            for both mobile and desktop devices. It is designed to serve 3 types
+            of user namely buyer, seller and admin. Seller can manupulate their
+            product display according to their need. Buyer can keep track of
+            their orders and manage their accounts.
           </Typography>
           <Typography>
             <strong>Technologies Used: </strong> React, Redux, Node, Express,
-            Mongoose
+            MongoDB
           </Typography>
         </Grid>
         <Grid item>
@@ -48,7 +55,7 @@ const BloodSourceSummary = props => {
           </div>
         </Grid>
         <div style={{ textAlign: 'center' }}>
-          <Link to='/bloodsource' className='btn btn-primary'>
+          <Link to='/bazarbilas' className='btn btn-primary'>
             View All
           </Link>
         </div>
@@ -58,6 +65,6 @@ const BloodSourceSummary = props => {
   );
 };
 
-BloodSourceSummary.propTypes = {};
+BazarBilasSummary.propTypes = {};
 
-export default BloodSourceSummary;
+export default BazarBilasSummary;

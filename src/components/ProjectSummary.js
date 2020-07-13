@@ -5,10 +5,12 @@ import BloodSourceSummary from './BloodSourceSummary';
 import FindContactSummary from './FindContactSummary';
 import HalalSummary from './HalalSummary';
 import edu from '../../src/img/edu.png';
+import BazarBilasSummary from './BazarBIlasSummary';
 
 const ProjectSummary = props => {
   return (
     <Fragment>
+      <BazarBilasSummary />
       <BloodSourceSummary />
       <FindContactSummary />
       <HalalSummary />

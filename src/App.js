@@ -7,6 +7,7 @@ import BloodSource from './components/BloodSource';
 import Navbar from './components/Navbar';
 import FindContact from './components/FindContact';
 import Halal from './components/Halal';
+import BazarBilas from './components/BazarBilas';
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
           <Route exact path='/' component={Home} />
           <Route exact path='/projectsummary' component={ProjectSummery} />
           <Route exact path='/bloodsource' component={BloodSource} />
+          <Route exact path='/bazarbilas' component={BazarBilas} />
           <Route exact path='/findcontact' component={FindContact} />
           <Route exact path='/halalproduct' component={Halal} />
         </Switch>
