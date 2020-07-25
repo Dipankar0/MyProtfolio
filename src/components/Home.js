@@ -102,17 +102,14 @@ const Home = props => {
                     </p>
                   </div>
                   <p>
-                    Being an experienced full stack web application developer
-                    for more than a year and half, i have developed and deployed
-                    multiple websites from scratch for different domains. In
-                    spite of having full command over basic programming
-                    languages like HTML5, CSS3, Java, PHP I have developed
-                    several projects with full stack javascript frameworks like
-                    React, Redux, Express, NodeJs with MongoDB. I am
-                    significantly passionate about working with new technologies
-                    to commensurate with the demands of galvanised clients.
-                    Entitlement to hard-work, taking responsibility, delivering
-                    product is what describes my personal overview.
+                    Being an experienced and highly passionate full-stack web
+                    developer for about 2 years, I have developed and deployed
+                    multiple top-level websites from scratch for both
+                    enterprises and professional individuals. After having a
+                    fruitful career in the physical industry, my enthusiasm
+                    towards working with better minds all over the world and
+                    foreseeing the future have guided me to start an exciting
+                    career on the online freelancing platform.
                   </p>
                 </CardContent>
               </Card>
