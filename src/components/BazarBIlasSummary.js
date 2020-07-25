@@ -32,11 +32,12 @@ const BazarBilasSummary = props => {
             <a href='http://bazarbilas.com/'>bazarbilas.com</a>
           </Typography>
           <Typography>
-            <strong>Description: </strong>An e-commerce web application designed
-            for both mobile and desktop devices. It is designed to serve 3 types
-            of user namely buyer, seller and admin. Seller can manupulate their
-            product display according to their need. Buyer can keep track of
-            their orders and manage their accounts.
+            <strong>Description: </strong>An responsive e-commerce web
+            application for enterprise and their consumers. It is designed to
+            serve 3 types of user namely buyer, seller and admin. Seller can
+            manupulate their product display according to their need. Buyer can
+            keep track of their orders and manage their accounts. Buyers are
+            able to manupulate their orders while buying products.
           </Typography>
           <Typography>
             <strong>Technologies Used: </strong> React, Redux, Node, Express,

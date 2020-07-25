@@ -22,10 +22,9 @@ const FindContact = props => {
           <Typography>
             <strong>Description: </strong>A simple but powerful web application
             designed for thousands of agencies under one mega company. Every
-            agency can share the contact information of employees of many
+            agency can share contact information of employees of different
             designations. Thus by selecting the angency and designation one
-            employee among all the agencies can see the contact information of
-            desired employee.
+            employee among all the agencies can see the contact information.
           </Typography>
           <Typography>
             <strong>Technologies Used: </strong> React, Redux, Node, Express,
@@ -43,8 +42,7 @@ const FindContact = props => {
               <strong>Picture: </strong>Home Page
             </Typography>
             <Typography>
-              <strong>Description: </strong>Home Page to nevigate to all the
-              pages.
+              <strong>Description: </strong>Home Page to nevigate all the pages.
             </Typography>
           </div>
           <div className='my-1 text-center'>
@@ -64,9 +62,8 @@ const FindContact = props => {
             <Typography>
               <strong>Description: </strong>Json Web Token is used for all user
               registration and login. The password is hashed and a random token
-              is generated each tome for maximum security of the users. The
-              registration and all other forms of this system includes form
-              validation functions.
+              is generated each time for maximum security of the users. All the
+              forms of this system include form validation functions.
             </Typography>
           </div>
           <div className='my-1 text-center'>
@@ -85,11 +82,11 @@ const FindContact = props => {
             </Typography>
             <Typography>
               <strong>Description: </strong>If any agency is registered, it will
-              be added autometically "agency selection" option. If the agency is
-              selected, the system will detect all the houndreds of brances of
-              it and show it to the user. After selecting both agency and
-              branch, the system will provide the options of designations and by
-              selecting which he/she will see the contact information.
+              be added autometically to "agency selection" option. If the agency
+              is selected, the system will detect houndreds of brances of it and
+              show it to the user. After selecting both agency and branch, the
+              system will provide the options of designations and by selecting
+              that he/she will see the desired contact information.
             </Typography>
           </div>
           <div className='my-1 text-center'>
@@ -107,8 +104,8 @@ const FindContact = props => {
               <strong>Picture: </strong>Admin Approval
             </Typography>
             <Typography>
-              <strong>Description: </strong>For each agency and its branches
-              need to get approval form the system admin to join the system.
+              <strong>Description: </strong>For each agency it needs to get
+              approval form the system admin to join the system.
             </Typography>
           </div>
           <div className='my-1 text-center'>

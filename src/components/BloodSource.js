@@ -24,11 +24,11 @@ const BloodSource = props => {
             <a href='https://bloodsource.herokuapp.com/'>bdbloodsource.com</a>
           </Typography>
           <Typography>
-            <strong>Description: </strong>An user interactive web application
-            designed for both mobile and desktop devices. It is designed to
-            create a platform for 4 different types of users namely, Donor,
-            Receiver, Public and Admin. UI is defferent for each type of user
-            throughout the application for maximum convention.
+            <strong>Description: </strong>An multiple user interactive web
+            application designed for both mobile and desktop devices. It is
+            designed to create a platform for 4 different types of users namely,
+            Donor, Receiver, Public and Admin. UI is defferent for each type of
+            user throughout the application for maximum convention.
           </Typography>
           <Typography>
             <strong>Technologies Used: </strong> React, Redux, Node, Express,
@@ -67,10 +67,10 @@ const BloodSource = props => {
             </Typography>
             <Typography>
               <strong>Description: </strong>When someone fills up form of blood,
-              the system automatically creates a permanent account for him. Next
-              time that person can use mobile number to login and get all
-              services form the system. Auto generated password is created for
-              him everytime with token.
+              the system automatically creates a permanent account for him/her.
+              Next time that person can use mobile number to login and get all
+              services from the system. Auto generated password is created for
+              user everytime with token.
             </Typography>
           </div>
           <div className='my-1'>
@@ -90,7 +90,7 @@ const BloodSource = props => {
             <Typography>
               <strong>Description: </strong>The dashboard of needer shows all
               the requests he/she had made. Each request contains donor list of
-              respective bloodgroups.
+              respective bloodgroup.
             </Typography>
           </div>
           <div className='my-1'>
@@ -191,7 +191,7 @@ const BloodSource = props => {
             </Typography>
             <Typography>
               <strong>Description: </strong>All the forms of this system are
-              developed with form validation function activated.
+              developed with form validation funtion.
             </Typography>
           </div>
           <div className='my-1'>

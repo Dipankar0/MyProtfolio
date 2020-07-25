@@ -82,7 +82,7 @@ const Home = props => {
               </Grid>
               <Grid item xs={4} className=''>
                 <h1>
-                  <a href='https://www.facebook.com/himaloy.himu.1420'>
+                  <a href='https://www.facebook.com/dipankar.bhadra.79274'>
                     <i class='fab fa-facebook-square'></i>
                   </a>
                 </h1>

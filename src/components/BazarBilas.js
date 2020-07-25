@@ -24,11 +24,12 @@ const BazarBilas = props => {
             <a href='http://bazarbilas.com/'>bazarbilas.com</a>
           </Typography>
           <Typography>
-            <strong>Description: </strong>An e-commerce web application designed
-            for both mobile and desktop devices. It is designed to serve 3 types
-            of user namely buyer, seller and admin. Seller can manupulate their
-            product display according to their need. Buyer can keep track of
-            their orders and manage their accounts.
+            <strong>Description: </strong>An responsive e-commerce web
+            application for enterprise and their consumers. It is designed to
+            serve 3 types of user namely buyer, seller and admin. Seller can
+            manupulate their product display according to their need. Buyer can
+            keep track of their orders and manage their accounts. Buyers are
+            able to manupulate their orders while buying products.
           </Typography>
           <Typography>
             <strong>Technologies Used: </strong> React, Redux, Node, Express,
@@ -46,9 +47,9 @@ const BazarBilas = props => {
               <strong>Picture: </strong>Home Page
             </Typography>
             <Typography>
-              <strong>Description: </strong>Home Page to nevigate to all the
-              pages. It displayes products of different categories along with
-              most selling products with company ongoing promostion posters.
+              <strong>Description: </strong>Home Page to nevigate all the pages.
+              It displayes products of different categories along with most
+              selling products and company's on-going promotion posters.
             </Typography>
           </div>
           <div className='my-1'>
@@ -66,10 +67,10 @@ const BazarBilas = props => {
               <strong>Picture: </strong>Add To Cart
             </Typography>
             <Typography>
-              <strong>Description: </strong>User can add product to their cart
-              from the product list displayed on the page if only they are
-              registered, otherwise it will direct them to register page. User
-              can add or remove item on the go with one button.
+              <strong>Description: </strong>User can add products to their cart
+              if only they are registered, otherwise it will direct them to
+              register page. User can add or remove item on the go with one
+              button.
             </Typography>
           </div>
           <div className='my-1'>

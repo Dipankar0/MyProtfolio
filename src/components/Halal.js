@@ -24,7 +24,7 @@ const Halal = props => {
             </Typography>
             <Typography>
               <strong>Description: </strong> A Blockchain implemented web
-              application with Hyperledger Fabric network. It is desgined for
+              application with Hyperledger Fabric network. It is designed for
               halal product company and hala authority for keeping track of each
               product of halal chain by providing halal certificate which will
               be decentralized among all the stakeholders.
