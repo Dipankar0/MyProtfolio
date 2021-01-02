@@ -59,16 +59,16 @@ const Home = props => {
                 Address: House 20, Road 10,
               </Typography>
               <Typography style={{ textAlign: 'center' }}>
-                Nikujna 2, Khilkhet,
+                Madhyamgram, Kolkata
               </Typography>
               <Typography style={{ textAlign: 'center' }}>
-                Dhaka, Bangladesh.
+                West Bengal, India.
               </Typography>
             </Grid>
             <Grid container spacing={1} item xs={12} className=''>
               <Grid item xs={4} className=''>
                 <h1 style={{ textAlign: 'end' }}>
-                  <a href='https://www.linkedin.com/in/dipankar-bhadra-697762168/'>
+                  <a href='https://www.linkedin.com/in/dipankar-bhadra-06396a202/'>
                     <i class='fab fa-linkedin'></i>
                   </a>
                 </h1>
@@ -82,7 +82,7 @@ const Home = props => {
               </Grid>
               <Grid item xs={4} className=''>
                 <h1>
-                  <a href='https://www.facebook.com/dipankar.bhadra.79274'>
+                  <a href='https://www.facebook.com/dipkar.bhadra.79274'>
                     <i class='fab fa-facebook-square'></i>
                   </a>
                 </h1>
