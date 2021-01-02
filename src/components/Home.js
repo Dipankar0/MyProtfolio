@@ -50,13 +50,13 @@ const Home = props => {
                 Entrepreneur
               </Typography>
               <Typography style={{ textAlign: 'center' }}>
-                Email: bhadrad4@gmail.com
+                Email: dipankarind15@gmail.com
               </Typography>
               <Typography style={{ textAlign: 'center' }}>
-                Mobile: +8801318634424
+                Mobile: +918918163259
               </Typography>
               <Typography style={{ textAlign: 'center' }}>
-                Address: House 20, Road 10,
+                Address: Sarat Kanon
               </Typography>
               <Typography style={{ textAlign: 'center' }}>
                 Madhyamgram, Kolkata
@@ -82,7 +82,7 @@ const Home = props => {
               </Grid>
               <Grid item xs={4} className=''>
                 <h1>
-                  <a href='https://www.facebook.com/dipkar.bhadra.79274'>
+                  <a href='https://www.facebook.com/dipkar.bhadra.47234'>
                     <i class='fab fa-facebook-square'></i>
                   </a>
                 </h1>
@@ -103,13 +103,12 @@ const Home = props => {
                   </div>
                   <p>
                     Being an experienced and highly passionate full-stack web
-                    developer for about 2 years, I have developed and deployed
-                    multiple top-level websites from scratch for both
-                    enterprises and professional individuals. After having a
-                    fruitful career in the physical industry, my enthusiasm
-                    towards working with better minds all over the world and
-                    foreseeing the future have guided me to start an exciting
-                    career on the online freelancing platform.
+                    developer for more than 3 years, I have developed and
+                    deployed multiple top-level websites from scratch for both
+                    enterprises and professional individuals. I provide
+                    companies my expertise to develop production-ready web
+                    applications from start to deployment. I aim high and work
+                    hard accordingly.
                   </p>
                 </CardContent>
               </Card>
