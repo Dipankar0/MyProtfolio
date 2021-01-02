@@ -31,11 +31,11 @@ const EduAndExp = props => {
               <p>
                 <strong>Full Stack Web Developer</strong>
                 <br />
-                <strong>Organisation: </strong>Maxzino Global
+                <strong>Organisation: </strong>Statbrook
                 <br />
-                <strong>Duration: </strong>05 July, 2019 - Present
+                <strong>Duration: </strong>25 August - Present
                 <br />
-                <strong>Location: </strong>Dhaka, Bangladesh
+                <strong>Location: </strong>New York, United States
               </p>
             </div>
           </div>
@@ -96,26 +96,6 @@ const EduAndExp = props => {
                   </TableCell>
                   <TableCell align=''>3.75/4.00</TableCell>
                   <TableCell align=''>2016</TableCell>
-                </TableRow>
-                <TableRow key=''>
-                  <TableCell component='th' scope='row'>
-                    Higher Secondary Certificate
-                  </TableCell>
-                  <TableCell align=''>Science</TableCell>
-                  <TableCell align=''>
-                    Bangabandhu Govt College, Bangladesh
-                  </TableCell>
-                  <TableCell align=''>4.60/5.00</TableCell>
-                  <TableCell align=''>2012</TableCell>
-                </TableRow>
-                <TableRow key=''>
-                  <TableCell component='th' scope='row'>
-                    Secondary Certificate
-                  </TableCell>
-                  <TableCell align=''>Science</TableCell>
-                  <TableCell align=''>S.M. Govt. Model School</TableCell>
-                  <TableCell align=''>5.00/5.00</TableCell>
-                  <TableCell align=''>2010</TableCell>
                 </TableRow>
               </TableBody>
             </Table>
