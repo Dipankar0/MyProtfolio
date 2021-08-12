@@ -12,28 +12,28 @@ import {
   TableRow,
   TableContainer,
   Table,
-  TableHead
+  TableHead,
 } from '@material-ui/core';
-const EduAndExp = props => {
+const EduAndExp = (props) => {
   return (
     <div>
       <Grid item>
         <div>
-          <p style={{ textAlign: 'center' }} className='badge-firm mid'>
+          <p style={{ textAlign: 'center' }} className="badge-firm mid">
             Experiene
           </p>
         </div>
       </Grid>
       <Grid container spacing={1}>
         <Grid item md={6}>
-          <div className='' style={{ border: 'black solid 1px' }}>
-            <div className='p-2'>
+          <div className="" style={{ border: 'black solid 1px' }}>
+            <div className="p-2">
               <p>
                 <strong>Full Stack Web Developer</strong>
                 <br />
-                <strong>Organisation: </strong>Statbrook
+                <strong>Organisation: </strong>UpWork
                 <br />
-                <strong>Duration: </strong>25 August - Present
+                <strong>Duration: </strong>5 May, 2019 - Present
                 <br />
                 <strong>Location: </strong>New York, United States
               </p>
@@ -41,8 +41,8 @@ const EduAndExp = props => {
           </div>
         </Grid>
         <Grid item md={6}>
-          <div className='' style={{ border: 'black solid 1px' }}>
-            <div className='p-2'>
+          <div className="" style={{ border: 'black solid 1px' }}>
+            <div className="p-2">
               <p>
                 <strong>Junior Software Developer</strong>
                 <br />
@@ -57,8 +57,8 @@ const EduAndExp = props => {
         </Grid>
       </Grid>
       <Grid item>
-        <div className='my-2'>
-          <p style={{ textAlign: 'center' }} className='badge-firm mid'>
+        <div className="my-2">
+          <p style={{ textAlign: 'center' }} className="badge-firm mid">
             Education
           </p>
         </div>
@@ -66,36 +66,36 @@ const EduAndExp = props => {
       <Grid item>
         <div style={{ border: 'black solid 1px' }}>
           <TableContainer component={Paper}>
-            <Table className='' size='small' aria-label='a dense table'>
+            <Table className="" size="small" aria-label="a dense table">
               <TableHead>
                 <TableRow>
-                  <TableCell align=''>Certificate</TableCell>
-                  <TableCell align=''>Concentration</TableCell>
-                  <TableCell align=''>Institution</TableCell>
-                  <TableCell align=''>CGPA</TableCell>
-                  <TableCell align=''>Year</TableCell>
+                  <TableCell align="">Certificate</TableCell>
+                  <TableCell align="">Concentration</TableCell>
+                  <TableCell align="">Institution</TableCell>
+                  <TableCell align="">CGPA</TableCell>
+                  <TableCell align="">Year</TableCell>
                 </TableRow>
               </TableHead>
               <TableBody>
-                <TableRow key=''>
-                  <TableCell component='th' scope='row'>
+                <TableRow key="">
+                  <TableCell component="th" scope="row">
                     Bachelor’s in information technology
                   </TableCell>
-                  <TableCell align=''>Web and Software Development</TableCell>
-                  <TableCell align=''>HELP University, Malaysia</TableCell>
-                  <TableCell align=''>3.10/4.00</TableCell>
-                  <TableCell align=''>2019</TableCell>
+                  <TableCell align="">Web and Software Development</TableCell>
+                  <TableCell align="">HELP University, Malaysia</TableCell>
+                  <TableCell align="">3.10/4.00</TableCell>
+                  <TableCell align="">2019</TableCell>
                 </TableRow>
-                <TableRow key=''>
-                  <TableCell component='th' scope='row'>
+                <TableRow key="">
+                  <TableCell component="th" scope="row">
                     Diploma in Computer Science
                   </TableCell>
-                  <TableCell align=''>Programming Language</TableCell>
-                  <TableCell align=''>
+                  <TableCell align="">Programming Language</TableCell>
+                  <TableCell align="">
                     Lincoln University College, Malaysia
                   </TableCell>
-                  <TableCell align=''>3.75/4.00</TableCell>
-                  <TableCell align=''>2016</TableCell>
+                  <TableCell align="">3.75/4.00</TableCell>
+                  <TableCell align="">2016</TableCell>
                 </TableRow>
               </TableBody>
             </Table>

@@ -6,22 +6,24 @@ import FindContactSummary from './FindContactSummary';
 import HalalSummary from './HalalSummary';
 import edu from '../../src/img/edu.png';
 import BazarBilasSummary from './BazarBIlasSummary';
+import AutopilotSummary from './AutopilotSummary';
 
-const ProjectSummary = props => {
+const ProjectSummary = (props) => {
   return (
     <Fragment>
+      <AutopilotSummary />
       <BazarBilasSummary />
       <BloodSourceSummary />
       <FindContactSummary />
       <HalalSummary />
-      <div className='badge-light'>
+      <div className="badge-light">
         <Grid item>
           <Typography>
             <strong>Name: </strong>Bachao Education
           </Typography>
           <Typography>
             <strong>Link: </strong>
-            <a href='https://edubachaoweb.herokuapp.com/'>
+            <a href="https://edubachaoweb.herokuapp.com/">
               educationbachao.com
             </a>
           </Typography>
@@ -35,12 +37,12 @@ const ProjectSummary = props => {
           </Typography>
         </Grid>
         <Grid item>
-          <div className='my-2 text-center'>
+          <div className="my-2 text-center">
             <div>
               <img
                 style={{ width: '100%', height: '500px' }}
                 src={edu}
-                alt='edu'
+                alt="edu"
               />
             </div>
           </div>

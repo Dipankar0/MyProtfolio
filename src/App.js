@@ -15,12 +15,12 @@ const App = () => {
       <Navbar />
       <Fragment>
         <Switch>
-          <Route exact path='/' component={Home} />
-          <Route exact path='/projectsummary' component={ProjectSummery} />
-          <Route exact path='/bloodsource' component={BloodSource} />
-          <Route exact path='/bazarbilas' component={BazarBilas} />
-          <Route exact path='/findcontact' component={FindContact} />
-          <Route exact path='/halalproduct' component={Halal} />
+          <Route exact path="/" component={Home} />
+          <Route exact path="/projectsummary" component={ProjectSummery} />
+          <Route exact path="/bloodsource" component={BloodSource} />
+          <Route exact path="/bazarbilas" component={BazarBilas} />
+          <Route exact path="/findcontact" component={FindContact} />
+          <Route exact path="/halalproduct" component={Halal} />
         </Switch>
       </Fragment>
     </Router>
