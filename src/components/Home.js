@@ -129,9 +129,9 @@ const Home = (props) => {
                   <TableBody>
                     <TableRow key="">
                       <TableCell component="th" scope="row">
-                        Blockchain
+                        TypeScript
                       </TableCell>
-                      <TableCell align="">Using Hyperledger Fabric</TableCell>
+                      <TableCell align="">Superset of JavaScript</TableCell>
                       <TableCell align="">Moderate</TableCell>
                     </TableRow>
                     <TableRow key="">
@@ -166,6 +166,20 @@ const Home = (props) => {
                     </TableRow>
                     <TableRow key="">
                       <TableCell component="th" scope="row">
+                        Next.js
+                      </TableCell>
+                      <TableCell align="">React Framework</TableCell>
+                      <TableCell align="">Below Moderate</TableCell>
+                    </TableRow>
+                    <TableRow key="">
+                      <TableCell component="th" scope="row">
+                        Nest.js
+                      </TableCell>
+                      <TableCell align="">JavaScript Framework</TableCell>
+                      <TableCell align="">Beginner</TableCell>
+                    </TableRow>
+                    <TableRow key="">
+                      <TableCell component="th" scope="row">
                         Mongoose
                       </TableCell>
                       <TableCell align="">MongoDB Database Library</TableCell>
@@ -177,20 +191,6 @@ const Home = (props) => {
                       </TableCell>
                       <TableCell align="">Front-end Styling Language</TableCell>
                       <TableCell align="">Moderate</TableCell>
-                    </TableRow>
-                    <TableRow key="">
-                      <TableCell component="th" scope="row">
-                        Spring
-                      </TableCell>
-                      <TableCell align="">Java Framework</TableCell>
-                      <TableCell align="">Below Moderate</TableCell>
-                    </TableRow>
-                    <TableRow key="">
-                      <TableCell component="th" scope="row">
-                        Symphone
-                      </TableCell>
-                      <TableCell align="">PHP Framework</TableCell>
-                      <TableCell align="">Beginner</TableCell>
                     </TableRow>
                     <TableRow key="">
                       <TableCell component="th" scope="row">
